@@ -16,6 +16,10 @@
 <a href="https://www.linkedin.com/in/vedant-vj/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" style="width: 50px;"/>
 </a>
+<a href="https://x.com/johari_vedant" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" style="width: 50px;"/>
+</a>
+
 
 
 ## **Languages and Tools:**
