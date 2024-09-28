@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi 👋, I'm Vedant Johari
 
-<!--
-**vedantj15/vedantj15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full Stack developer from India
 
 Here are some ideas to get you started:
 
